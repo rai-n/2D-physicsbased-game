@@ -1,0 +1,13 @@
+Euclid,4
+Hardy,3
+Boole,7
+Godel,11
+Nash,15
+Hopper,20
+Witten,13
+Taylor,14
+De Morgan,16
+Turing,50,
+Neer,20
+Chris,24
+Radu,80
